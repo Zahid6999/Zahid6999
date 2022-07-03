@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Zahid6999/Zahid6999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zahid6999/is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
