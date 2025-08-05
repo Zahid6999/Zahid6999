@@ -63,9 +63,9 @@ When I'm not coding, you’ll probably find me tweaking animations or refining r
 ### 📬 Let's Connect
 
 - 📧 Email: **zahidhasan6999@gmail.com**
-- 🌐 Portfolio: [[(https://my-protfolio-zahid6999s-projects.vercel.app))
-- 💼 LinkedIn: [[linkedin.com/in/zahid6999](https://linkedin.com/in/zahid6999](https://www.linkedin.com/in/zahid-hasan-4a564a25a/)]([https://linkedin.com/in/zahid6999](https://www.linkedin.com/in/zahid-hasan-4a564a25a/))
-- 🐦 Twitter: [[@zahidhasan_dev](https://twitter.com/zahidhasan_dev](https://x.com/ZahidHasan6999)]([https://twitter.com/zahidhasan_dev](https://x.com/ZahidHasan6999))
+- 🌐 Portfolio: https://my-protfolio-nine-tawny.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/zahid-hasan-4a564a25a/
+- 🐦 Twitter: https://x.com/ZahidHasan6999
 
 ---
 
