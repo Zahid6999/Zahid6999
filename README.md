@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Zahid Hasan</h1>
-<h3 align="center">Front-End Developer | HTML, CSS, JS | React, Next.js, Vue.js</h3>
+<h3 align="center">Front-end Developer @StaticMania | React, Next.js & JAMstack | No-Code (Framer)</h3>
 
 ---
 
