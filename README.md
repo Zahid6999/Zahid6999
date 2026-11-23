@@ -1,10 +1,11 @@
 <img width="1900" height="931" alt="image" src="https://github.com/user-attachments/assets/c0ebccf4-f28b-4cb7-87a2-5a8ee5d0b9b7" />
 
 
+---
 <h1 align="center">👋🏼 Hi, I'm  Zahid Hasan</h1>
 <h3 align="center">Frontend Developer · Co-creator of Tween UI · Next.js, React, GSAP, Framer, Webflow</h3>
 
----
+
 
 ### 🧑‍💻 About Me
 
